@@ -12,7 +12,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=Sobre%20mim&fontSize=28&fontColor=ffffff&fontAlignY=54" alt="Sobre mim" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=1f2937&height=60&section=header&text=Sobre%20mim&fontSize=28&fontColor=ffffff&fontAlignY=54" alt="Sobre mim" />
 
 Meu nome é **Guilherme Zaros**, tenho **18 anos** e moro em **Paranavaí - PR**.
 
@@ -22,7 +22,7 @@ Estou dando meus primeiros passos no **desenvolvimento Full Stack**, colocando a
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,12,6&height=60&section=header&text=Areas%20de%20interesse&fontSize=28&fontColor=ffffff&fontAlignY=54" alt="Áreas de interesse" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=1f2937&height=60&section=header&text=Areas%20de%20interesse&fontSize=28&fontColor=ffffff&fontAlignY=54" alt="Áreas de interesse" />
 
 <div align="center">
 
@@ -36,7 +36,7 @@ Estou dando meus primeiros passos no **desenvolvimento Full Stack**, colocando a
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=GitHub&fontSize=28&fontColor=ffffff&fontAlignY=54" alt="GitHub" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=1f2937&height=60&section=header&text=GitHub&fontSize=28&fontColor=ffffff&fontAlignY=54" alt="GitHub" />
 
 <div align="center">
 
@@ -54,7 +54,7 @@ Estou dando meus primeiros passos no **desenvolvimento Full Stack**, colocando a
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,12,6&height=60&section=header&text=Linguagens%20e%20Tecnologias&fontSize=28&fontColor=ffffff&fontAlignY=54" alt="Linguagens e Tecnologias" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=1f2937&height=60&section=header&text=Linguagens%20e%20Tecnologias&fontSize=28&fontColor=ffffff&fontAlignY=54" alt="Linguagens e Tecnologias" />
 
 <div align="center">
 <table>
@@ -97,7 +97,7 @@ Estou dando meus primeiros passos no **desenvolvimento Full Stack**, colocando a
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=O%20que%20venho%20construindo&fontSize=28&fontColor=ffffff&fontAlignY=54" alt="O que venho construindo" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=1f2937&height=60&section=header&text=O%20que%20venho%20construindo&fontSize=28&fontColor=ffffff&fontAlignY=54" alt="O que venho construindo" />
 
 - 🐍 Projetos e exercícios em **Python** para fortalecer a lógica de programação
 - 🌐 Páginas e interfaces web com **HTML, CSS e JavaScript**
@@ -107,7 +107,7 @@ Estou dando meus primeiros passos no **desenvolvimento Full Stack**, colocando a
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,12,6&height=60&section=header&text=Objetivo&fontSize=28&fontColor=ffffff&fontAlignY=54" alt="Objetivo" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=1f2937&height=60&section=header&text=Objetivo&fontSize=28&fontColor=ffffff&fontAlignY=54" alt="Objetivo" />
 
 Meu objetivo é me tornar um **desenvolvedor Full Stack** completo, com base sólida em programação e boas práticas, e atuar em projetos reais que tragam impacto.
 
